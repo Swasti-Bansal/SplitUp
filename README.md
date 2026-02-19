@@ -4,7 +4,7 @@
 
 ### A Modern Expense Splitting Web Application
 
-SplitUp is a fast and responsive frontend application built using **React, TypeScript, Vite, and TailwindCSS** that helps users manage and split shared expenses in a clean and intuitive way.
+SplitUp is a fast and responsive frontend application built using **React, Vite, and TailwindCSS** that helps users manage and split shared expenses in a clean and intuitive way.
 
 </div>
 
